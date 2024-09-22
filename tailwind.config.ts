@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        boSky: "#C3EBFA",
+        boSkyLight: "#EDF9FD",
+        boPurple: "#CFCEFF",
+        boPurpleLight: "#F1F0FF",
+        boYellow: "#FAE27C",
+        boYellowLight: "#FEFCE8",
       },
     },
   },
