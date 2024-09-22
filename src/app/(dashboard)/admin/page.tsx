@@ -24,9 +24,7 @@ const AdminPage = () => {
           <div className="w-full lg:w-2/3 h-[450px]"></div>
         </div>
         {/* BOTTOM CHART */}
-        <div className="w-full h-[500px]">
-          
-        </div>
+        <div className="w-full h-[500px]"></div>
       </div>
       {/* RIGHT */}
       <div className="w-full lg:w-1/3 flex flex-col gap-8"></div>
